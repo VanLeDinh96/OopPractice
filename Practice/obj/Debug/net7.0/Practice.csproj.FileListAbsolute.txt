@@ -1,0 +1,15 @@
+D:\me\MyPetProject\Practice\Practice\bin\Debug\net7.0\Practice.exe
+D:\me\MyPetProject\Practice\Practice\bin\Debug\net7.0\Practice.deps.json
+D:\me\MyPetProject\Practice\Practice\bin\Debug\net7.0\Practice.runtimeconfig.json
+D:\me\MyPetProject\Practice\Practice\bin\Debug\net7.0\Practice.dll
+D:\me\MyPetProject\Practice\Practice\bin\Debug\net7.0\Practice.pdb
+D:\me\MyPetProject\Practice\Practice\obj\Debug\net7.0\Practice.csproj.AssemblyReference.cache
+D:\me\MyPetProject\Practice\Practice\obj\Debug\net7.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\me\MyPetProject\Practice\Practice\obj\Debug\net7.0\Practice.AssemblyInfoInputs.cache
+D:\me\MyPetProject\Practice\Practice\obj\Debug\net7.0\Practice.AssemblyInfo.cs
+D:\me\MyPetProject\Practice\Practice\obj\Debug\net7.0\Practice.csproj.CoreCompileInputs.cache
+D:\me\MyPetProject\Practice\Practice\obj\Debug\net7.0\Practice.dll
+D:\me\MyPetProject\Practice\Practice\obj\Debug\net7.0\refint\Practice.dll
+D:\me\MyPetProject\Practice\Practice\obj\Debug\net7.0\Practice.pdb
+D:\me\MyPetProject\Practice\Practice\obj\Debug\net7.0\Practice.genruntimeconfig.cache
+D:\me\MyPetProject\Practice\Practice\obj\Debug\net7.0\ref\Practice.dll

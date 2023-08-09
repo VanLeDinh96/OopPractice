@@ -1,5 +1,12 @@
-﻿using Practice;
-using Practice.Abstraction;
+﻿using Practice.Polymorphism;
 
-Shape square = new Square();
-square.Draw();
+// polymorphism
+Shape[] shapes = new Shape[]
+{
+    new Circle(),
+    new Square()
+};
+
+foreach(var shape in shapes){
+    shape.Draw();
+}

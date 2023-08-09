@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\me\\MyPetProject\\Practice\\Practice\\Practice.csproj": {}
+    "D:\\OopPractice\\Practice\\Practice.csproj": {}
   },
   "projects": {
-    "D:\\me\\MyPetProject\\Practice\\Practice\\Practice.csproj": {
+    "D:\\OopPractice\\Practice\\Practice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\me\\MyPetProject\\Practice\\Practice\\Practice.csproj",
+        "projectUniqueName": "D:\\OopPractice\\Practice\\Practice.csproj",
         "projectName": "Practice",
-        "projectPath": "D:\\me\\MyPetProject\\Practice\\Practice\\Practice.csproj",
+        "projectPath": "D:\\OopPractice\\Practice\\Practice.csproj",
         "packagesPath": "C:\\Users\\dle2_mantu\\.nuget\\packages\\",
-        "outputPath": "D:\\me\\MyPetProject\\Practice\\Practice\\obj\\",
+        "outputPath": "D:\\OopPractice\\Practice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dle2_mantu\\AppData\\Roaming\\NuGet\\NuGet.Config",
